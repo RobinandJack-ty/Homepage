@@ -2,4 +2,4 @@
 # "News" 
 ## *New* 
 @Robin Hi guys! We're currently having an issue with
- the site and it seems that... *read more
+ the site and it seems that... *read more*
